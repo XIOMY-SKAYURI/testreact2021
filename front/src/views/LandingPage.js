@@ -21,19 +21,15 @@ const api = axios.create({
     
    render(){
     return (
-      <> 
-             
+      <>        
       <section className='container-general'>
-    
                 {this.state.product.map(product => 
-       
       <div className='dealCard'> 
      
         <img src = {'http://localhost:5000/'+ product.image} />
         <h2 class="btn card-title">{product.name}</h2> 
         <a href={`/${product._id}`}><button class="btn see-more">see product</button></a>
       </div>
-      
         
          )}
       </section>

@@ -21,7 +21,7 @@ setProduct(response.data[0])
 
   return (
     <div >
-
+AQUI FICHA DE PRODUCTO
   </div>
   )
 
