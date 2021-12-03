@@ -26,6 +26,6 @@
 ![Desktop](/wfb2UeF9R1.gif)
 
 2. Mobile
-![Mobile](/running-app.png)
+![Mobile](/arSRlO1jOT.git)
 
 ## ¡Mucho éxito! 💪
