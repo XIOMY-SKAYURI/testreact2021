@@ -1,7 +1,6 @@
 # Prueba tecnica Front Ecomsur 2021
 
-### PRESENTO EL AVANCE DE LO QUE PUDE DESARROLAR EN MIS TIEMPOS LIBRES , YA QUE PRIORICE LOS PENDIDNETES DE LOS CLIENTES ,CON CYBER Y NAVIDAD
-
+### PRESENTO TEST REACT
 ## Requerimientos mínimos
 
 - Instalar las siguientes dependencias  🤙:
