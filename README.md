@@ -26,6 +26,6 @@
 ![Desktop](/wfb2UeF9R1.gif)
 
 2. Mobile
-![Mobile](/arSRlO1jOT.git)
+![Mobile](/arSRlO1jOT.gif)
 
 ## ¡Mucho éxito! 💪
